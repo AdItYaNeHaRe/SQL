@@ -1946,3 +1946,5 @@ WHERE
     AND discount_pct IS NOT NULL          -- IS NULL check
 
 ORDER BY quantity * unit_price DESC;
+
+-- Hello my name is Ram
